@@ -1,10 +1,10 @@
 ### Olá, sou Matheus Camilo Borba 👋
 
-🚀 Desenvolvedor Junior | 💻 Backend Developer **em formação**
+🚀 Desenvolvedor Junior | 💻 Fullstack Developer **em formação**
 
 #### Formação
-- Autodidata em desenvolvimento, com foco em backend.
-- adquirindo conhecimentos em C#, Lógica de Programação Avançada e Python (do básico ao avançado) na Udemy.
+- Autodidata em desenvolvimento, com foco em frontend até o momento.
+- adquirindo conhecimentos em C#, Lógica de Programação, HTML5, CSS, JS (do básico ao intermediário) na Step.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devstoks&hide_progress=true)
 
