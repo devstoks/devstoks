@@ -4,7 +4,7 @@
 
 #### Formação
 - Autodidata em desenvolvimento, com foco em frontend até o momento.
-- adquirindo conhecimentos em C#, Lógica de Programação, HTML5, CSS, JS (do básico ao intermediário) na Step.
+- adquirindo conhecimentos em C# (desenvolvimento de Jogos e APPS). Lógica de Programação, HTML5, CSS, JS (do básico ao intermediário) na Step.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devstoks&hide_progress=true)
 
