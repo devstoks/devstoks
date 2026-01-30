@@ -6,7 +6,7 @@
 ## 🔧 Technologies & Skills
 
 - **Languages:** Java  
-- **Back-end:** Java SE, object-oriented logic, exception handling  
+- **Back-end:** Java SE, Java EE ,object-oriented logic, exception handling  
 - **Web Front-end:** HTML, CSS, JavaScript, Bootstrap
 - **Game / 3D:** Unity
 - **Data Persistence:** `.txt` file handling, data manipulation  
