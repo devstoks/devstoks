@@ -1,5 +1,5 @@
 # Hi, I’m Matheus Camilo Borba 👋  
-**Junior Developer | Full Stack Developer in Training | Systems & Game Enthusiast**
+**Junior Java Developer | Backend Systems & CRUD | Seeking Opportunities**
 
 ---
 
