@@ -1,34 +1,128 @@
-# Hi, I’m Matheus Camilo Borba 👋  
-**Junior Java Developer | Backend Systems & CRUD | Seeking Opportunities**
+# Olá, eu sou Matheus Camilo Borba 👋
+
+**Desenvolvedor Java em evolução | Backend, Sistemas e Tecnologia Criativa**
 
 ---
 
-## 🔧 Technologies & Skills
+## 🚀 Sobre Mim
 
-- **Languages:** Java  
-- **Back-end:** Java SE, Java EE ,object-oriented logic, exception handling  
-- **Web Front-end:** HTML, CSS, JavaScript, Bootstrap
-- **Game / 3D:** Unity
-- **Data Persistence:** `.txt` file handling, data manipulation  
-- **Tools:** Eclipse, VS Code, Git, GitHub  
+Sou apaixonado por tecnologia, desenvolvimento de software e pela criação de soluções que realmente funcionam no mundo real.
+Atualmente estou focado em **Java, backend e desenvolvimento web**, buscando evoluir constantemente através de projetos práticos, estudo contínuo e exploração de novas ideias.
 
----
+Gosto de entender como os sistemas funcionam por trás das interfaces, criar aplicações do zero e transformar lógica em soluções úteis.
 
-## 📚 Highlight Projects
-
-- **Clothing Store System (Java SE):** Full CRUD (clients & products), file persistence, modular architecture.  
-- **Web Projects:** validated forms, responsive layouts, interactive logic.  
-- **GameDev / 3D:** prototypes in Unity, simple mechanics.
+Além da programação, também tenho interesse por **games, design, música, ambientes 3D e criatividade digital**, o que traz uma visão mais criativa para o desenvolvimento.
 
 ---
 
-## 🎯 Professional Goal
+## 🛠️ Tecnologias & Habilidades
 
-I aim to work as a **Junior Developer** in innovative and collaborative teams, contributing to real projects and growing my technical expertise in software, systems.
+### **Linguagens & Base de Desenvolvimento**
+
+* **Java** (Java SE / Java EE)
+* Programação Orientada a Objetos (POO)
+* Tratamento de Exceções
+* Lógica de Programação
+* Estruturação de CRUDs
+
+### **Desenvolvimento Web**
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+### **Banco de Dados & Persistência**
+
+* MariaDB
+* Manipulação de arquivos (`.txt`)
+* Persistência de dados
+
+### **Ferramentas & Workflow**
+
+* Git & GitHub
+* Eclipse
+* VS Code
+* Versionamento básico
+
+### **GameDev & Criatividade**
+
+* Unity
+* Protótipos de jogos
+* Sistemas interativos
+* Experimentação 3D
 
 ---
 
-## 📫 Connect With Me
+## 📚 Projetos em Destaque
 
-- [LinkedIn](https://www.linkedin.com/in/matheus-camilo-borba-617a23309/)  
-- [GitHub](https://github.com/devstoks)  
+### **🛍️ Sistema de Loja de Roupas (Java SE)**
+
+Projeto CRUD completo focado em backend.
+
+**Funcionalidades:**
+
+* Cadastro de clientes e produtos
+* Persistência de dados em arquivos
+* Estrutura modular
+* Organização orientada a objetos
+* Separação de regras de negócio
+
+---
+
+### **🌐 Projetos Web**
+
+Projetos voltados para prática de front-end e interação.
+
+**Incluindo:**
+
+* Layout responsivo
+* Validação de formulários
+* Componentes interativos
+* Estrutura limpa e organizada
+
+---
+
+### **🎮 GameDev & Experimentos 3D**
+
+Projetos criativos desenvolvidos com Unity.
+
+**Foco:**
+
+* Mecânicas simples
+* Interação
+* Testes de ideias
+* Protótipos jogáveis
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco oportunidades para:
+
+* Evoluir como **Desenvolvedor Java / Backend**
+* Trabalhar em sistemas reais
+* Aprender com profissionais experientes
+* Participar de projetos colaborativos
+* Criar soluções úteis e escaláveis
+
+---
+
+## 💡 O Que Me Define
+
+* Curioso sobre como as coisas funcionam
+* Interesse forte por tecnologia
+* Aprendizado constante
+* Criatividade aplicada à lógica
+* Foco em evolução contínua
+
+---
+
+## 📫 Contato
+
+* **LinkedIn:** [https://www.linkedin.com/in/matheus-camilo-borba-617a23309/](https://www.linkedin.com/in/matheuscamilo-dev/)
+* **GitHub:** [https://github.com/devstoks](https://github.com/devstoks)
+
+---
+
+> *“Tecnologia não é apenas código — é criar algo útil, funcional e que faça sentido.”*
