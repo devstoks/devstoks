@@ -1,0 +1,163 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0D1117"/>
+            <stop offset="100%" stop-color="#161B22"/>
+        </linearGradient>
+
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="3.5" result="coloredBlur"/>
+            <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+    </defs>
+
+    <!-- Fundo -->
+
+    <rect width="1200" height="300" fill="url(#bg)"/>
+
+    <!-- Borda -->
+
+    <rect
+        x="20"
+        y="20"
+        width="1160"
+        height="260"
+        rx="12"
+        fill="none"
+        stroke="#5BC0BE"
+        stroke-width="2"
+        opacity=".8"/>
+
+    <!-- Prompt -->
+
+    <text
+        x="60"
+        y="70"
+        fill="#5BC0BE"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="26"
+        filter="url(#glow)">
+>
+    </text>
+
+    <text
+        x="80"
+        y="70"
+        fill="#C9D1D9"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="24">
+
+        booting profile...
+
+        <animate
+            attributeName="opacity"
+            values="0;1"
+            dur="1.2s"
+            fill="freeze"/>
+    </text>
+
+    <!-- Conteúdo -->
+
+    <text
+        x="60"
+        y="120"
+        fill="#8B949E"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="22">
+
+USER      :: Matheus Camilo Borba
+
+    </text>
+
+    <text
+        x="60"
+        y="155"
+        fill="#8B949E"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="22">
+
+ROLE      :: Full Stack Developer
+
+    </text>
+
+    <text
+        x="60"
+        y="190"
+        fill="#8B949E"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="22">
+
+STACK     :: Java • Spring • JavaScript
+
+    </text>
+
+    <text
+        x="60"
+        y="225"
+        fill="#8B949E"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="22">
+
+STATUS    :: Looking for Internship
+
+    </text>
+
+    <!-- Barra -->
+
+    <rect
+        x="60"
+        y="250"
+        width="340"
+        height="10"
+        rx="5"
+        fill="#30363D"/>
+
+    <rect
+        x="60"
+        y="250"
+        width="340"
+        height="10"
+        rx="5"
+        fill="#5BC0BE">
+
+        <animate
+            attributeName="width"
+            from="0"
+            to="340"
+            dur="2s"
+            fill="freeze"/>
+
+    </rect>
+
+    <text
+        x="420"
+        y="259"
+        fill="#5BC0BE"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="18">
+
+100%
+
+    </text>
+
+    <!-- Rodapé -->
+
+    <text
+        x="860"
+        y="255"
+        fill="#5BC0BE"
+        font-family="JetBrains Mono, Consolas, monospace"
+        font-size="20"
+        filter="url(#glow)">
+
+SYSTEM READY ✓
+
+    </text>
+
+</svg>
