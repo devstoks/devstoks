@@ -6,11 +6,11 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscamilo-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://SEU-PORTFOLIO.vercel.app)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattcb.rj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheuscamilo-dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://SEU-PORTFOLIO.vercel.app)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mattcb.rj@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=2E9EF7&style=for-the-badge&label=VISUALIZA%C3%87%C3%95ES)
+![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO\&color=2E9EF7\&style=for-the-badge\&label=VISUALIZA%C3%87%C3%95ES)
 
 </div>
 
@@ -18,13 +18,21 @@
 
 ## 👋 Sobre mim
 
-Sou o **Matheus Camilo**, estudante de **Engenharia de Software** e dev **Full Stack** com foco em **Java**.
+Sou o **Matheus Camilo**, estudante de **Engenharia de Software** e desenvolvedor **Full Stack**, com foco em **Java e Spring Boot**.
 
-Gosto de transformar problemas do dia a dia em sistemas bem estruturados — de preferência com uma xícara de café por perto ☕. Hoje estou explorando mais a fundo o ecossistema **Spring Boot**, **Docker** e **React**, sempre tentando escrever código que o "eu do futuro" consiga entender sem sofrer.
+Gosto de transformar problemas do dia a dia em sistemas bem estruturados — de preferência com uma xícara de café por perto ☕. Atualmente, estou aprofundando meus conhecimentos em **Spring Boot, APIs REST, JWT, React, TypeScript, Tailwind CSS**, buscando sempre escrever código organizado e fácil de manter.
 
 ```java
 public class Matheus {
-    String[] stack = {"Java", "Spring Boot", "React", "Docker"};
+    String[] stack = {
+        "Java",
+        "Spring Boot",
+        "JWT",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+    };
+
     String status = "Aberto a oportunidades 🚀";
     boolean debugandoAsMinhas1hDaManha = true;
 }
@@ -35,27 +43,46 @@ public class Matheus {
 ## 💻 Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,js,html,css,bootstrap,mysql,git,github,idea,androidstudio,vscode,docker&perline=14" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mariadb" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind&perline=6" />
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,androidstudio,vscode&perline=5" />
+
 </div>
+
+**Autenticação:** JWT · BCrypt
+**APIs:** REST · JSON · Insomnia
+**Persistência:** JPA · Hibernate · MySQL · MariaDB
 
 ---
 
 ## 🚀 Projetos em destaque
 
 ### 📌 Help Desk System
+
 Sistema web para gerenciamento de chamados técnicos inspirado em ambientes corporativos.
 
 `Java EE` `Hibernate` `JPA` `Servlets` `JSP` `MariaDB` `JavaScript`
 
-### 🎨 Nicolas Portfolio - 🚧 *Em desenvolvimento*
-Sistema completo de portfólio para um artista digital: site público, painel administrativo e API REST para gerenciamento de conteúdo.
+### 🎨 Nicolas Portfolio — 🚧 *Em desenvolvimento*
 
-`Java 21` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `HTML` `CSS` `JavaScript`
+Sistema completo de portfólio para um artista digital, com site público, painel administrativo e API REST para gerenciamento de conteúdo.
+
+`Java 21` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL` `React` `TypeScript` `Tailwind CSS` `JWT`
 
 ### 🎓 Sistema Aluno Ajax
+
 Sistema para cadastro e consulta de alunos utilizando requisições AJAX e Servlets.
 
-`Java EE` `Servlets` `Ajax` `MariaDB`
+`Java EE` `Servlets` `AJAX` `MariaDB`
 
 ---
 
@@ -63,8 +90,8 @@ Sistema para cadastro e consulta de alunos utilizando requisições AJAX e Servl
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuscamilo-dev/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattcb.rj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheuscamilo-dev/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mattcb.rj@gmail.com)
 
 <br>
 
