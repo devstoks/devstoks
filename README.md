@@ -41,49 +41,26 @@ public class Matheus {
 
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="33%">
-
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mariadb&perline=5" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgresql&perline=5" />
 
 `JWT` · `BCrypt` · `JPA` · `REST API` · `Spring Security`
-
-</td>
-
-<td align="center" width="33%">
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind&perline=6" />
 
-<br><br>
-
-`React` · `TypeScript` · `Tailwind`
-
-</td>
-
-<td align="center" width="33%">
+`React` · `TypeScript` · `Tailwind CSS`
 
 ### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,androidstudio,vscode,docker&perline=6" />
-
-<br><br>
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,docker&perline=5" />
 
 `Git` · `GitHub` · `Docker` · `Insomnia`
 
-</td>
-
-</tr>
-</table>
-
 </div>
+
 ---
 
 ## 🚀 Projetos em destaque
