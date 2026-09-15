@@ -9,9 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/matheuscamilo-dev/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://SEU-PORTFOLIO.vercel.app)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mattcb.rj@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO\&color=2E9EF7\&style=for-the-badge\&label=VISUALIZA%C3%87%C3%95ES)
-
 </div>
 
 ---
@@ -44,24 +41,49 @@ public class Matheus {
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="33%">
+
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mariadb" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,mariadb&perline=5" />
+
+<br><br>
+
+`JWT` · `BCrypt` · `JPA` · `REST API` · `Spring Security`
+
+</td>
+
+<td align="center" width="33%">
 
 ### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind&perline=6" />
 
+<br><br>
+
+`React` · `TypeScript` · `Tailwind`
+
+</td>
+
+<td align="center" width="33%">
+
 ### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,idea,androidstudio,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=git,github,idea,androidstudio,vscode,docker&perline=6" />
+
+<br><br>
+
+`Git` · `GitHub` · `Docker` · `Insomnia`
+
+</td>
+
+</tr>
+</table>
 
 </div>
-
-**Autenticação:** JWT · BCrypt
-**APIs:** REST · JSON · Insomnia
-**Persistência:** JPA · Hibernate · MySQL · MariaDB
-
 ---
 
 ## 🚀 Projetos em destaque
